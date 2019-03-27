@@ -55,3 +55,18 @@
 ![Step 6](https://raw.githubusercontent.com/indrahad/tcclanjut/master/minggu-03/course-02/step6.png)
 
 ### Course 3
+
+1. Membuat Dockerfile </br>
+![Step 1](https://raw.githubusercontent.com/indrahad/tcclanjut/master/minggu-03/course-03/step1.png)
+
+2. Membuat file html </br>
+![Step 2](https://raw.githubusercontent.com/indrahad/tcclanjut/master/minggu-03/course-03/step2.png)
+
+3. Build image my docker </br>
+![Step 3](https://raw.githubusercontent.com/indrahad/tcclanjut/master/minggu-03/course-03/step3.png)
+
+4. Mencoba menjalankan docker dan cek dengan curl </br>
+![Step 4](https://raw.githubusercontent.com/indrahad/tcclanjut/master/minggu-03/course-03/step4.png)
+
+5. Melihat list docker yang berjalan </br>
+![Step 5](https://raw.githubusercontent.com/indrahad/tcclanjut/master/minggu-03/course-03/step5.png)
